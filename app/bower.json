@@ -1,0 +1,22 @@
+{
+  "name": "testsite",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "David Meredith"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "susy": "^2.2.12"
+  }
+}
